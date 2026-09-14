@@ -58,6 +58,36 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 # :wrench: Only Unpack
 | Format | Description |
 | :----------- | :----------- |
+| [APFS](https://en.wikipedia.org/wiki/Apple_File_System)     | Apple File System (APFS) is a proprietary file system developed and deployed by [Apple Inc](https://en.wikipedia.org/wiki/Apple_Inc.). for macOS Sierra (10.12.4) and later, iOS 10.3, tvOS 10.2, watchOS 3.2, and all versions of iPadOS.     |
+| [AR](https://en.wikipedia.org/wiki/Ar_(Unix))     | ar, short for archiver, is a [shell](https://en.wikipedia.org/wiki/Shell_(computing)) command for maintaining multiple files as a single archive file (i.e. a file archiver).     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |
 

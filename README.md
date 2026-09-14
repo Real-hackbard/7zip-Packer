@@ -32,6 +32,11 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 * Pack/Unpack Various formats
 * Compressing individual files, multiple files, or entire folders
 * Create Volume parts
+* Various settings
+* Archive password
+* Compressor x32bit or x64bit
+* Compress level setting
+* CPU multi Threading (cores)
 
 
 <br>

@@ -170,7 +170,7 @@ Create an Archive
 * Set compression level: ```7z a -mx9 archive.7z /path/to/folder``` uses ultra/maximum compression level
 
 <br>
-Extract an Archive  
+Extract an Archive
 
 * Extract with full paths: ```7z x archive.7z``` extracts files and restores original directory structures.
 * Extract to a specific folder: ```7z x archive.7z -o/path/to/target``` sends extracted files to your chosen destination directory.

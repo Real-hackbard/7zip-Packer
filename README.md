@@ -64,9 +64,9 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [CAB](https://en.wikipedia.org/wiki/Cabinet_(file_format))     | Cabinet (or CAB) is an archive-file format for Microsoft Windows that supports [lossless data compression](https://en.wikipedia.org/wiki/Lossless_compression) and embedded digital certificates used for maintaining archive integrity. Cabinet files have .cab filename extensions and are recognized by their first four bytes (also called their magic number) MSCF. Cabinet files were known originally as Diamond files.     |
 | [CHM](https://de.wikipedia.org/wiki/CHM_(Dateiformat))     | Microsoft Compiled HTML Help (CHM) is a Microsoft proprietary [online help format](https://en.wikipedia.org/wiki/Online_help), consisting of a collection of HTML pages, an index and other navigation tools.     |
 | [CPIO](https://en.wikipedia.org/wiki/Cpio)     | cpio is a general file archiver utility and its associated file format. It is primarily installed on [Unix-like](https://en.wikipedia.org/wiki/Unix-like) computer operating systems.     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
+| [CRamFS](https://en.wikipedia.org/wiki/Cramfs)     | The compressed ROM/RAM file system (or cramfs) is a free (GPL'ed) read-only [Linux](https://en.wikipedia.org/wiki/Linux_kernel) file system designed for simplicity and space-efficiency.     |
+| [DMG](https://en.wikipedia.org/wiki/Apple_Disk_Image)     | Apple [Disk Image](https://en.wikipedia.org/wiki/Disk_image) is a disk image format commonly used by the macOS operating system. When opened, an Apple Disk Image is mounted as a volume within the Finder.     |
+| [EXT](https://en.wikipedia.org/wiki/Extended_file_system)     | The extended file system, or ext, was implemented in April 1992 as the first file system created specifically for the Linux kernel.     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |

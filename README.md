@@ -171,9 +171,8 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 
 <br>
 ### Extract an Archive  
-
-* Extract with full paths: ```7z x archive.7z``` extracts files and restores original directory structures.
-* Extract to a specific folder: ```7z x archive.7z -o/path/to/target``` sends extracted files to your chosen destination directory.
+* Extract with full paths: 7z x archive.7z extracts files and restores original directory structures.
+* Extract to a specific folder: 7z x archive.7z -o/path/to/target sends extracted files to your chosen destination directory.
 
 <br>
 ### Advanced Options  

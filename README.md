@@ -89,7 +89,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [VHDX](https://en.wikipedia.org/wiki/VHD_(file_format))     | The format was created by Connectix for their Virtual PC product, known as Microsoft Virtual PC since Microsoft acquired Connectix in 2003. VHDX was introduced in Windows 8/Windows Server 2012 to add features and flexibility missing in VHD that had become apparent over time.     |
 | [VMDK](https://en.wikipedia.org/wiki/VMDK)     | VMDK (short for Virtual Machine Disk) is a file format that describes containers for [virtual hard disk drives](https://en.wikipedia.org/wiki/Disk_image) to be used in virtual machines like [VMware Workstation](https://en.wikipedia.org/wiki/VMware_Workstation) or [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox).     |
 | [XAR](https://en.wikipedia.org/wiki/Xar_(archiver))     | XAR (short for eXtensible ARchive format) is an open source file archiver and the default file format of [macOS's](https://en.wikipedia.org/wiki/MacOS) archiver app.     |
-| Zelle 2,1     | Zelle 2,2     |
+| [zip](https://en.wikipedia.org/wiki/ZIP_(file_format))     | ZIP is an [archive file format](https://en.wikipedia.org/wiki/Archive_file#Archive_formats) that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed.     |
 
 
 

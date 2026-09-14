@@ -17,5 +17,6 @@
 
 7-Zip is a free and open-source [file archiver](https://en.wikipedia.org/wiki/File_archiver), a utility used to place groups of files within compressed containers known as "archives". It is developed by Igor Pavlov and was first released in 1999. 7-Zip has its own [archive format](https://en.wikipedia.org/wiki/Archive_file) called [7z](https://en.wikipedia.org/wiki/7z) introduced in 2001, but can read and write several others.
 
+The program can be used from a Windows [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) that also features shell integration, or from a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) as the command 7z that offers cross-platform support (see versions for details). Most of the 7-Zip source code is under the [LGPL-2.1-or-later license](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License); the unRAR code, however, is under the LGPL-2.1-or-later license with an "unRAR restriction", which states that developers are not permitted to use the code to reverse-engineer the RAR compression algorithm.
 
 

@@ -28,7 +28,7 @@ The program can be used from a Windows [graphical user interface](https://en.wik
 
 By default, 7-Zip creates 7z-format archives with a .7z [file extension](https://en.wikipedia.org/wiki/Filename_extension). Each archive can contain multiple directories and files. As a container format, security or size reduction are achieved by looking for similarities throughout the data using a stacked combination of filters. These can consist of pre-processors, compression algorithms, and encryption filters.
 
-# Pack & Unpack
+# :wrench: Pack & Unpack
 
 | File Format | Description |
 | :-----------: | :-----------: |
@@ -40,6 +40,9 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [bzip2](https://en.wikipedia.org/wiki/Bzip2)     | bzip2 is a file format and a file compression program. The program uses the Burrows–Wheeler algorithm to compress and decompress a single file using the [bzip2 file format](https://en.wikipedia.org/wiki/Bzip2#File_format). libbzip2 is a lossless data compression software library used by the bzip2 program.     |
 | [wim](https://en.wikipedia.org/wiki/Windows_Imaging_Format)     | The Windows Imaging Format (WIM) is a file-based [disk image format](https://en.wikipedia.org/wiki/Disk_image). It was developed by Microsoft to help deploy Windows Vista and subsequent versions of the Windows operating system family.     |
 
+<br>
+
+# :wrench: Only Unpack
 
 
 

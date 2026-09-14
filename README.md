@@ -19,4 +19,11 @@
 
 The program can be used from a Windows [graphical user interface](https://en.wikipedia.org/wiki/Graphical_user_interface) that also features shell integration, or from a [command-line interface](https://en.wikipedia.org/wiki/Command-line_interface) as the command 7z that offers cross-platform support (see versions for details). Most of the 7-Zip source code is under the [LGPL-2.1-or-later license](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License); the unRAR code, however, is under the LGPL-2.1-or-later license with an "unRAR restriction", which states that developers are not permitted to use the code to reverse-engineer the RAR compression algorithm.
 
+<br>
 
+<img src="https://github.com/user-attachments/assets/5b31fd61-6d44-405f-aa44-ff7b27edf002" />
+
+<br>
+<br>
+
+By default, 7-Zip creates 7z-format archives with a .7z [file extension](https://en.wikipedia.org/wiki/Filename_extension). Each archive can contain multiple directories and files. As a container format, security or size reduction are achieved by looking for similarities throughout the data using a stacked combination of filters. These can consist of pre-processors, compression algorithms, and encryption filters.

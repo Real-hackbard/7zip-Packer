@@ -170,6 +170,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 * Set compression level: ```7z a -mx9 archive.7z /path/to/folder``` uses ultra/maximum compression level
 
 <br>
+
 ### Extract an Archive  
 
 * Extract with full paths: 7z x archive.7z extracts files and restores original directory structures.

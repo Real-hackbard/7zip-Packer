@@ -67,11 +67,11 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [CRamFS](https://en.wikipedia.org/wiki/Cramfs)     | The compressed ROM/RAM file system (or cramfs) is a free (GPL'ed) read-only [Linux](https://en.wikipedia.org/wiki/Linux_kernel) file system designed for simplicity and space-efficiency.     |
 | [DMG](https://en.wikipedia.org/wiki/Apple_Disk_Image)     | Apple [Disk Image](https://en.wikipedia.org/wiki/Disk_image) is a disk image format commonly used by the macOS operating system. When opened, an Apple Disk Image is mounted as a volume within the Finder.     |
 | [EXT](https://en.wikipedia.org/wiki/Extended_file_system)     | The extended file system, or ext, was implemented in April 1992 as the first file system created specifically for the Linux kernel.     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
+| [FAT](https://en.wikipedia.org/wiki/File_Allocation_Table)     | File Allocation Table (FAT) is a file system developed for personal computers and was the default file system for the [DOS](https://en.wikipedia.org/wiki/DOS) and Windows 9x operating systems.     |
+| [GPT](https://de.wikipedia.org/wiki/GUID_Partition_Table)     | GUID Partition Table (GPT)—derived from the English term "Globally Unique Identifier"—is a standard for the format of partition tables on data storage media such as hard drives.   |
+| [HFS](https://en.wikipedia.org/wiki/Hierarchical_File_System_(Apple))     | Hierarchical File System (HFS) is a proprietary file system developed by Apple Inc. for use in computer systems running [Mac OS](https://en.wikipedia.org/wiki/Classic_Mac_OS).     |
+| [IHEX](https://en.wikipedia.org/wiki/Intel_HEX)     | Intel hexadecimal object file format, Intel hex format or Intellec Hex is a file format that conveys [binary](https://en.wikipedia.org/wiki/Binary_data) information in ASCII text form, making it possible to store on non-binary media such as paper tape, punch cards, etc., to display on text terminals or be printed on line-oriented printers.      |
+| [ISO](https://en.wikipedia.org/wiki/Optical_disc_image)     | An optical disc image (or ISO image, from the [ISO 9660](https://en.wikipedia.org/wiki/ISO_9660) file system used with [CD-ROM media](https://en.wikipedia.org/wiki/CD-ROM)) is a disk image that contains everything that would be written to an optical disc, disk sector by disc sector, including the optical disc file system. ISO images contain the binary image of an optical media file system (usually ISO 9660 and its extensions or UDF), including the data in its files in binary format, copied exactly as they were stored on the disc.     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |

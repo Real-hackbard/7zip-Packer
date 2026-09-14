@@ -39,7 +39,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [xz](https://en.wikipedia.org/wiki/XZ_Utils)     | XZ Utils (previously LZMA Utils) is a set of free-software command-line lossless data compressors, including the programs lzma and xz, for [Unix-like](https://en.wikipedia.org/wiki/Unix-like) operating systems and, from version 5.0 onwards, Microsoft Windows.     |
 | [gzip](https://en.wikipedia.org/wiki/Gzip)     | gzip is a file format and a file compression program. The program uses the [Deflate algorithm](https://en.wikipedia.org/wiki/Deflate) to compress and decompress a single file using the gzip file format.     |
 | [bzip2](https://en.wikipedia.org/wiki/Bzip2)     | bzip2 is a file format and a file compression program. The program uses the Burrows–Wheeler algorithm to compress and decompress a single file using the [bzip2 file format](https://en.wikipedia.org/wiki/Bzip2#File_format). libbzip2 is a lossless data compression software library used by the bzip2 program.     |
-| Zelle 1,1     | Zelle 1,2     |
+| [wim](https://en.wikipedia.org/wiki/Windows_Imaging_Format)     | The Windows Imaging Format (WIM) is a file-based [disk image format](https://en.wikipedia.org/wiki/Disk_image). It was developed by Microsoft to help deploy Windows Vista and subsequent versions of the Windows operating system family.     |
 
 
 

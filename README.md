@@ -177,6 +177,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 * Extract to a specific folder: ```7z x archive.7z -o/path/to/target``` sends extracted files to your chosen destination directory.
 
 <br>
+
 ### Advanced Options  
 
 * Password protect an archive: ```7z a -pSecretPassword archive.7z file1.txt``` encrypts the archive with a password.

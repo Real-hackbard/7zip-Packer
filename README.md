@@ -10,7 +10,6 @@
 
 </br>
 
-<img width="250" height="144" alt="7ziplogo svg" src="https://github.com/user-attachments/assets/a9940756-fa20-425b-b506-275c306db735" />
 
 </br>
 </br>

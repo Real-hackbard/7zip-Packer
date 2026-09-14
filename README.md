@@ -175,6 +175,11 @@ Extract an Archive
 * Extract with full paths: ```7z x archive.7z``` extracts files and restores original directory structures.
 * Extract to a specific folder: ```7z x archive.7z -o/path/to/target``` sends extracted files to your chosen destination directory.
 
+Advanced Options  
+
+* Password protect an archive: ```7z a -pSecretPassword archive.7z file1.txt``` encrypts the archive with a password.
+* List contents of an archive: ```7z l archive.7z``` displays all files inside the archive without extracting them.
+
 
 
 

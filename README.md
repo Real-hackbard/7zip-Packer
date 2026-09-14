@@ -75,11 +75,11 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [LZMA](https://en.wikipedia.org/wiki/LZMA)     | LZMA (Lempel–Ziv–Markov chain algorithm) is a [lossless data compression algorithm](https://en.wikipedia.org/wiki/Lossless_compression) developed since 1998 by Igor Pavlov, the developer of 7-Zip.     |
 | [MBR](https://en.wikipedia.org/wiki/Master_boot_record)     | Master boot record (MBR) is a type of boot sector in the first block of partitioned computer [mass storage devices](https://en.wikipedia.org/wiki/Mass_storage) like fixed disks or removable drives intended for use with IBM PC-compatible systems and beyond.     |
 | [MSI](https://baike.baidu.com/en/item/MSI%20file%20format/5138269)     | The MSI file format is the installation package database format used by Windows Installer , storing software installation instructions, system dependencies, and product deployment information.     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
+| [NSIS](https://de.wikipedia.org/wiki/Nullsoft_Scriptable_Install_System)     | Nullsoft Scriptable Install System (NSIS for short) is software for creating installers for the Windows operating system.     |
+| [NTFS](https://en.wikipedia.org/wiki/NTFS)     | NT File System (NTFS) is a proprietary [journaling file system](https://en.wikipedia.org/wiki/Journaling_file_system) developed by Microsoft in the 1990s.     |
+| [QCOW2](https://en.wikipedia.org/wiki/Qcow)     | qcow is a file format for disk image files used by [QEMU](https://en.wikipedia.org/wiki/QEMU), a hosted virtual machine monitor.     |
+| [RAR](https://en.wikipedia.org/wiki/RAR_(file_format))     | RAR is a proprietary archive file format that supports data compression, error correction and [file spanning](https://en.wikipedia.org/wiki/File_spanning).     |
+| [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager)     | RPM (originally Red Hat Package Manager, now a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym) for RPM Package Manager) is a free and open-source package management system.     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |

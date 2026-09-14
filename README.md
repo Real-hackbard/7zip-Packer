@@ -38,7 +38,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [tar](https://en.wikipedia.org/wiki/Tar_(computing))     | tar is a file format and a file archiver program. The program combines multiple files into a single archive file in the [tar](https://en.wikipedia.org/wiki/Tar_(computing)#File_format) file format.     |
 | [xz](https://en.wikipedia.org/wiki/XZ_Utils)     | XZ Utils (previously LZMA Utils) is a set of free-software command-line lossless data compressors, including the programs lzma and xz, for [Unix-like](https://en.wikipedia.org/wiki/Unix-like) operating systems and, from version 5.0 onwards, Microsoft Windows.     |
 | [gzip](https://en.wikipedia.org/wiki/Gzip)     | gzip is a file format and a file compression program. The program uses the [Deflate algorithm](https://en.wikipedia.org/wiki/Deflate) to compress and decompress a single file using the gzip file format.     |
-| Zelle 2,1     | Zelle 2,2     |
+| [bzip2](https://en.wikipedia.org/wiki/Bzip2)     | bzip2 is a file format and a file compression program. The program uses the Burrows–Wheeler algorithm to compress and decompress a single file using the [bzip2 file format](https://en.wikipedia.org/wiki/Bzip2#File_format). libbzip2 is a lossless data compression software library used by the bzip2 program.     |
 | Zelle 1,1     | Zelle 1,2     |
 
 

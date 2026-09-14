@@ -85,8 +85,8 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [UDF](https://en.wikipedia.org/wiki/Universal_Disk_Format)     | Universal Disk Format (UDF) is an open, vendor-neutral file system for computer data storage for a broad range of media.     |
 | [UEFI](https://en.wikipedia.org/wiki/UEFI)     | Unified Extensible Firmware Interface or UEFI is a specification for the firmware architecture of a computing platform.     |
 | [VDI](https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)     | Oracle VirtualBox (formerly Oracle VM VirtualBox, Sun VirtualBox, Sun xVM VirtualBox and InnoTek VirtualBox) is a hosted hypervisor for x86 and ARM virtualization developed by [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation).     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
+| [VHD](https://en.wikipedia.org/wiki/VHD_(file_format))     | VHD (Virtual Hard Disk) and its successor VHDX are file formats representing a virtual hard disk drive (HDD).     |
+| [VHDX](https://en.wikipedia.org/wiki/VHD_(file_format))     | The format was created by Connectix for their Virtual PC product, known as Microsoft Virtual PC since Microsoft acquired Connectix in 2003. VHDX was introduced in Windows 8/Windows Server 2012 to add features and flexibility missing in VHD that had become apparent over time.     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |

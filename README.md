@@ -94,7 +94,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 
 <br>
 
-# Available parameters
+# :speech_balloon: Available parameters
 ```txt
 <Commands>
   a : Add files to archive
@@ -163,7 +163,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 
 # Examples
 
-### Create an Archive  
+### :speech_balloon: Create an Archive  
 
 * Basic zip creation: ```7z a archive.zip``` file1.txt adds a single file to a new zip archive.
 * Compress a folder: ```7z a archive.7z /path/to/folder``` compresses an entire directory using the 7z format.
@@ -171,14 +171,14 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 
 <br>
 
-### Extract an Archive  
+### :speech_balloon:Extract an Archive  
 
 * Extract with full paths: ```7z x archive.7z``` extracts files and restores original directory structures.
 * Extract to a specific folder: ```7z x archive.7z -o/path/to/target``` sends extracted files to your chosen destination directory.
 
 <br>
 
-### Advanced Options  
+### :speech_balloon: Advanced Options  
 
 * Password protect an archive: ```7z a -pSecretPassword archive.7z file1.txt``` encrypts the archive with a password.
 * List contents of an archive: ```7z l archive.7z``` displays all files inside the archive without extracting them.

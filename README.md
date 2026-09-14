@@ -159,6 +159,21 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
   -y : assume Yes on all queries
 ```
 
+<br>
+
+# Examples
+
+Create an Archive
+* Basic zip creation: ```7z a archive.zip``` file1.txt adds a single file to a new zip archive.
+* Compress a folder: ```7z a archive.7z /path/to/folder``` compresses an entire directory using the 7z format.
+* Set compression level: ```7z a -mx9 archive.7z /path/to/folder``` uses ultra/maximum compression level
+
+
+
+
+
+
+
 
 
 

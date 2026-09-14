@@ -31,7 +31,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 # :wrench: Pack & Unpack
 
 | File Format | Description |
-| :----------- | :----------- |
+| :------------- | :----------- |
 | [7z](https://en.wikipedia.org/wiki/7-Zip)     | 7-Zip has its own archive format called 7z introduced in 2001, but can read and write several others.     |
 | [zip](https://en.wikipedia.org/wiki/ZIP_(file_format))     | ZIP is an archive file format that supports [lossless data compression](https://en.wikipedia.org/wiki/Lossless_compression).     |
 | [tar](https://en.wikipedia.org/wiki/Tar_(computing))     | tar is a file format and a file archiver program. The program combines multiple files into a single archive file in the [tar](https://en.wikipedia.org/wiki/Tar_(computing)#File_format) file format.     |

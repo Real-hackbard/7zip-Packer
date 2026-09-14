@@ -10,9 +10,12 @@
 
 </br>
 
+<img width="250" height="144" alt="7ziplogo svg" src="https://github.com/user-attachments/assets/a9940756-fa20-425b-b506-275c306db735" />
 
+</br>
+</br>
 
-
+7-Zip is a free and open-source [file archiver](https://en.wikipedia.org/wiki/File_archiver), a utility used to place groups of files within compressed containers known as "archives". It is developed by Igor Pavlov and was first released in 1999. 7-Zip has its own [archive format](https://en.wikipedia.org/wiki/Archive_file) called [7z](https://en.wikipedia.org/wiki/7z) introduced in 2001, but can read and write several others.
 
 
 

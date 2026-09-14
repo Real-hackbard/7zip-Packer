@@ -28,6 +28,14 @@ The program can be used from a Windows [graphical user interface](https://en.wik
 
 By default, 7-Zip creates 7z-format archives with a .7z [file extension](https://en.wikipedia.org/wiki/Filename_extension). Each archive can contain multiple directories and files. As a container format, security or size reduction are achieved by looking for similarities throughout the data using a stacked combination of filters. These can consist of pre-processors, compression algorithms, and encryption filters.
 
+### :wrench: Features
+* Pack/Unpack Various formats
+* Compressing individual files, multiple files, or entire folders
+* Create Volume parts
+
+
+<br>
+
 # :wrench: Pack & Unpack
 
 | Format | Description |

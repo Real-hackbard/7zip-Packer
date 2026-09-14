@@ -87,8 +87,8 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [VDI](https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)     | Oracle VirtualBox (formerly Oracle VM VirtualBox, Sun VirtualBox, Sun xVM VirtualBox and InnoTek VirtualBox) is a hosted hypervisor for x86 and ARM virtualization developed by [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation).     |
 | [VHD](https://en.wikipedia.org/wiki/VHD_(file_format))     | VHD (Virtual Hard Disk) and its successor VHDX are file formats representing a virtual hard disk drive (HDD).     |
 | [VHDX](https://en.wikipedia.org/wiki/VHD_(file_format))     | The format was created by Connectix for their Virtual PC product, known as Microsoft Virtual PC since Microsoft acquired Connectix in 2003. VHDX was introduced in Windows 8/Windows Server 2012 to add features and flexibility missing in VHD that had become apparent over time.     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
+| [VMDK](https://en.wikipedia.org/wiki/VMDK)     | VMDK (short for Virtual Machine Disk) is a file format that describes containers for [virtual hard disk drives](https://en.wikipedia.org/wiki/Disk_image) to be used in virtual machines like [VMware Workstation](https://en.wikipedia.org/wiki/VMware_Workstation) or [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox).     |
+| [XAR](https://en.wikipedia.org/wiki/Xar_(archiver))     | XAR (short for eXtensible ARchive format) is an open source file archiver and the default file format of [macOS's](https://en.wikipedia.org/wiki/MacOS) archiver app.     |
 | Zelle 2,1     | Zelle 2,2     |
 
 

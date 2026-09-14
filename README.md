@@ -21,7 +21,7 @@ The program can be used from a Windows [graphical user interface](https://en.wik
 
 <br>
 
-
+<img src="https://github.com/user-attachments/assets/58bff94a-accf-44b7-b09e-7c834436eb52" />
 
 <br>
 <br>

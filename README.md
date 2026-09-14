@@ -84,7 +84,7 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [SquashFS](https://en.wikipedia.org/wiki/SquashFS)     | Squashfs is a compressed read-only file system for Linux. Squashfs compresses files, inodes and directories, and supports [block sizes](https://en.wikipedia.org/wiki/Block_(data_storage)) from 4 KiB up to 1 MiB for greater compression.     |
 | [UDF](https://en.wikipedia.org/wiki/Universal_Disk_Format)     | Universal Disk Format (UDF) is an open, vendor-neutral file system for computer data storage for a broad range of media.     |
 | [UEFI](https://en.wikipedia.org/wiki/UEFI)     | Unified Extensible Firmware Interface or UEFI is a specification for the firmware architecture of a computing platform.     |
-| [VDI]}(https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)     | Oracle VirtualBox (formerly Oracle VM VirtualBox, Sun VirtualBox, Sun xVM VirtualBox and InnoTek VirtualBox) is a hosted hypervisor for x86 and ARM virtualization developed by [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation).     |
+| [VDI](https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)     | Oracle VirtualBox (formerly Oracle VM VirtualBox, Sun VirtualBox, Sun xVM VirtualBox and InnoTek VirtualBox) is a hosted hypervisor for x86 and ARM virtualization developed by [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation).     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |

@@ -72,10 +72,10 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [HFS](https://en.wikipedia.org/wiki/Hierarchical_File_System_(Apple))     | Hierarchical File System (HFS) is a proprietary file system developed by Apple Inc. for use in computer systems running [Mac OS](https://en.wikipedia.org/wiki/Classic_Mac_OS).     |
 | [IHEX](https://en.wikipedia.org/wiki/Intel_HEX)     | Intel hexadecimal object file format, Intel hex format or Intellec Hex is a file format that conveys [binary](https://en.wikipedia.org/wiki/Binary_data) information in ASCII text form, making it possible to store on non-binary media such as paper tape, punch cards, etc., to display on text terminals or be printed on line-oriented printers.      |
 | [ISO](https://en.wikipedia.org/wiki/Optical_disc_image)     | An optical disc image (or ISO image, from the [ISO 9660](https://en.wikipedia.org/wiki/ISO_9660) file system used with [CD-ROM media](https://en.wikipedia.org/wiki/CD-ROM)) is a disk image that contains everything that would be written to an optical disc, disk sector by disc sector, including the optical disc file system. ISO images contain the binary image of an optical media file system (usually ISO 9660 and its extensions or UDF), including the data in its files in binary format, copied exactly as they were stored on the disc.     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
+| [LZH](https://en.wikipedia.org/wiki/LHA_(file_format))     | LHA or LZH is a freeware [compression](https://en.wikipedia.org/wiki/Data_compression) utility and associated file format. It was created in 1988 by Haruyasu Yoshizaki (吉崎栄泰, Yoshizaki Haruyasu), a medical doctor, and originally named LHarc. A complete rewrite of LHarc, tentatively named LHx, was eventually released as LH.     |
+| [LZMA](https://en.wikipedia.org/wiki/LZMA)     | LZMA (Lempel–Ziv–Markov chain algorithm) is a [lossless data compression algorithm](https://en.wikipedia.org/wiki/Lossless_compression) developed since 1998 by Igor Pavlov, the developer of 7-Zip.     |
+| [MBR](https://en.wikipedia.org/wiki/Master_boot_record)     | Master boot record (MBR) is a type of boot sector in the first block of partitioned computer [mass storage devices](https://en.wikipedia.org/wiki/Mass_storage) like fixed disks or removable drives intended for use with IBM PC-compatible systems and beyond.     |
+| [MSI](https://baike.baidu.com/en/item/MSI%20file%20format/5138269)     | The MSI file format is the installation package database format used by Windows Installer , storing software installation instructions, system dependencies, and product deployment information.     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |

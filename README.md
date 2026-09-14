@@ -81,15 +81,20 @@ By default, 7-Zip creates 7z-format archives with a .7z [file extension](https:/
 | [QCOW2](https://en.wikipedia.org/wiki/Qcow)     | qcow is a file format for disk image files used by [QEMU](https://en.wikipedia.org/wiki/QEMU), a hosted virtual machine monitor.     |
 | [RAR](https://en.wikipedia.org/wiki/RAR_(file_format))     | RAR is a proprietary archive file format that supports data compression, error correction and [file spanning](https://en.wikipedia.org/wiki/File_spanning).     |
 | [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager)     | RPM (originally Red Hat Package Manager, now a [recursive acronym](https://en.wikipedia.org/wiki/Recursive_acronym) for RPM Package Manager) is a free and open-source package management system.     |
+| [SquashFS](https://en.wikipedia.org/wiki/SquashFS)     | Squashfs is a compressed read-only file system for Linux. Squashfs compresses files, inodes and directories, and supports [block sizes](https://en.wikipedia.org/wiki/Block_(data_storage)) from 4 KiB up to 1 MiB for greater compression.     |
+| [UDF](https://en.wikipedia.org/wiki/Universal_Disk_Format)     | Universal Disk Format (UDF) is an open, vendor-neutral file system for computer data storage for a broad range of media.     |
+| [UEFI](https://en.wikipedia.org/wiki/UEFI)     | Unified Extensible Firmware Interface or UEFI is a specification for the firmware architecture of a computing platform.     |
+| [VDI]}(https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)     | Oracle VirtualBox (formerly Oracle VM VirtualBox, Sun VirtualBox, Sun xVM VirtualBox and InnoTek VirtualBox) is a hosted hypervisor for x86 and ARM virtualization developed by [Oracle Corporation](https://en.wikipedia.org/wiki/Oracle_Corporation).     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 1,1     | Zelle 1,2     |
-| Zelle 2,1     | Zelle 2,2     |
+
+
+
+
+
 
 
 

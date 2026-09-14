@@ -20,7 +20,7 @@ The program can be used from a Windows [graphical user interface](https://en.wik
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/5b31fd61-6d44-405f-aa44-ff7b27edf002" />
+
 
 <br>
 <br>
